@@ -2,7 +2,7 @@
 //  UserCell.swift
 //  UserCoreData
 //
-//  Created by Yogesh Patel on 09/05/23.
+//  Created by Tipu on 19/10/23.
 //
 
 import UIKit

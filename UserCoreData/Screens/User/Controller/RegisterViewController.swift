@@ -2,7 +2,7 @@
 //  RegisterViewController.swift
 //  UserCoreData
 //
-//  Created by Yogesh Patel on 09/04/23.
+//  Created by Tipu on 19/10/23.
 //
 
 import UIKit
@@ -96,9 +96,9 @@ extension RegisterViewController{
         }
 
         if let user {
-            // newUser - Ashish
-            // user(user entity) - store user hai - Yogesh
-            // Yogesh = Ashish
+            // newUser - SULTAN
+            // user(user entity) - store user hai - TIPU
+            // TIPU = SULTAN
             // update
 
             let newUser = UserModel(
